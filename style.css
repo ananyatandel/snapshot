@@ -52,7 +52,7 @@ img {
   height: 500px;
 }
 
-@media screen and (max-width: 600px) {
+/* @media screen and (max-width: 600px) {
   h1 {
     font-size: 45px;
   }
@@ -82,3 +82,4 @@ img {
     align-content: center;
   }
 }
+ */
