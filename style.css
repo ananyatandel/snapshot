@@ -30,16 +30,20 @@ body {
   align-items: center;
 }
 
-h2 {
-  text-align: center;
-  font-size: 40px;
-}
-
 h3 {
   text-align: center;
 }
 
-Img1 {
-  height: 100px;
-  width: 100px;
+p {
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  font-size: 27px;
+}
+
+img {
+  object-fit: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
