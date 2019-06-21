@@ -52,27 +52,33 @@ img {
   height: 500px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
+
+  body{
+    background-color: red;
+  }
+
   h1 {
-    font-size: 45px;
+    font-size: 75px;
   }
   h3{
     width: 100%;
     height: auto;
-    font-size: 38px;
+    font-size: 65px;
   }
   .align{
-    align-items: center;
     display: flex;
+    align-content: center;
+    flex-direction: column;
   }
   .btn {
-    flex-direction: column;
+    /* flex-direction: column; */
     margin: 20px;
-    width: 50%;
+    width: 100%;
     height: auto;
   }
   p {
-    font-size: 20px;
+    font-size: 50px;
     text-align: center;
   }
   img {
