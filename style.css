@@ -52,12 +52,16 @@ img {
   height: 500px;
 }
 
+<<<<<<< HEAD
 @media screen and (max-width: 800px) {
 
   body{
     background-color: red;
   }
 
+=======
+/* @media screen and (max-width: 600px) {
+>>>>>>> faa05f64c7d99104f655079c482b5de1acfd59c7
   h1 {
     font-size: 75px;
   }
@@ -88,3 +92,4 @@ img {
     align-content: center;
   }
 }
+ */
